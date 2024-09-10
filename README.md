@@ -1,5 +1,16 @@
 # majorstudio1
 
+Islamic Art(ifacts) by Sultanate Period
+
+My main goal was to go deeper into the bucket that is “Islamic Art”, and categorize it on a more micro level. I wanted to ask – how can an understanding of Islamic Art be made more complex by understanding it through a non-western timeline, aka, through Sultanates instead of “Ages”. This helps visualize when in Islamic history were their booms of artistic and creative production.
+
+https://api.si.edu/openaccess/api/v1.0/search?q=online_visual_material:true+AND+type:edanmdm+AND+islamic+AND+art+AND+period&api_key=[your key]
+The dataset includes as much as is accessible (through these specific keywords) about the “Period” under “label”. I am trying to figure out more ways of finding this data since it shows there to be 300+ islamic artifacts that are definitely categorized by dates, from which I can figure out the period if not explicitly mentioned.
+
+I chose to use a Sankey Diagram since I wanted a “fluid” connecting tether showing HOW much islamic art is at once from a specific period and how much it accounts for the total art categories throughout history. I wanted there to be a striated and nested way to see at a glance the period, how much % of the art made in a period was in specific categories, and how much that ends up accounting for the total % in each category for the entire provided timeline of the islamic world.
+
+<img width="464" alt="sankey" src="https://github.com/user-attachments/assets/20335b91-98b3-4ce4-84e7-5001ba566986">
+
 “Fragments: A Comparative World-Wide Analysis”
 
 
@@ -19,17 +30,6 @@ The data set is any result that has “Fragments” in its title or description.
 
 
 The visualization method used is a Doughnut Chart. This is because “fragments” refer to parts of a whole, so the idea of each doughnut being filled with percentage fragments felt correct, as the form is matching the content being documented.
-
-<img width="464" alt="sankey" src="https://github.com/user-attachments/assets/20335b91-98b3-4ce4-84e7-5001ba566986">
-
-Islamic Art(ifacts) by Sultanate Period
-
-My main goal was to go deeper into the bucket that is “Islamic Art”, and categorize it on a more micro level. I wanted to ask – how can an understanding of Islamic Art be made more complex by understanding it through a non-western timeline, aka, through Sultanates instead of “Ages”. This helps visualize when in Islamic history were their booms of artistic and creative production.
-
-https://api.si.edu/openaccess/api/v1.0/search?q=online_visual_material:true+AND+type:edanmdm+AND+islamic+AND+art+AND+period&api_key=[your key]
-The dataset includes as much as is accessible (through these specific keywords) about the “Period” under “label”. I am trying to figure out more ways of finding this data since it shows there to be 300+ islamic artifacts that are definitely categorized by dates, from which I can figure out the period if not explicitly mentioned.
-
-I chose to use a Sankey Diagram since I wanted a “fluid” connecting tether showing HOW much islamic art is at once from a specific period and how much it accounts for the total art categories throughout history. I wanted there to be a striated and nested way to see at a glance the period, how much % of the art made in a period was in specific categories, and how much that ends up accounting for the total % in each category for the entire provided timeline of the islamic world.
 
 <img width="392" alt="native american" src="https://github.com/user-attachments/assets/575e59b4-8d45-4d97-afa7-d34d8da262a4">
 
