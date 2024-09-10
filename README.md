@@ -10,6 +10,7 @@ The dataset includes as much as is accessible (through these specific keywords) 
 I chose to use a Sankey Diagram since I wanted a “fluid” connecting tether showing HOW much islamic art is at once from a specific period and how much it accounts for the total art categories throughout history. I wanted there to be a striated and nested way to see at a glance the period, how much % of the art made in a period was in specific categories, and how much that ends up accounting for the total % in each category for the entire provided timeline of the islamic world.
 
 <img width="464" alt="sankey" src="https://github.com/user-attachments/assets/20335b91-98b3-4ce4-84e7-5001ba566986">
+----------------------------------------------------------------------------------------------------------
 
 “Fragments: A Comparative World-Wide Analysis”
 
@@ -32,6 +33,7 @@ The data set is any result that has “Fragments” in its title or description.
 The visualization method used is a Doughnut Chart. This is because “fragments” refer to parts of a whole, so the idea of each doughnut being filled with percentage fragments felt correct, as the form is matching the content being documented.
 
 <img width="498" alt="fragments" src="https://github.com/user-attachments/assets/8c07393a-9aa1-4abc-8a61-1ffbfb37d807">
+----------------------------------------------------------------------------------------------------------
 
 Archiving Quotidien American Indian Artifacts
 
