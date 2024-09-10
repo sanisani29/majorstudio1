@@ -34,6 +34,7 @@ The data set is any result that has “Fragments” in its title or description.
 The visualization method used is a Doughnut Chart. This is because “fragments” refer to parts of a whole, so the idea of each doughnut being filled with percentage fragments felt correct, as the form is matching the content being documented.
 
 <img width="498" alt="fragments" src="https://github.com/user-attachments/assets/8c07393a-9aa1-4abc-8a61-1ffbfb37d807">
+
 ----------------------------------------------------------------------------------------------------------
 
 Archiving Quotidien American Indian Artifacts
