@@ -46,3 +46,11 @@ https://www.si.edu/search/collection-images?edan_q=Indians%2Bof%2BNorth%2BAmeric
 I wanted to use a Spider/Radar chart specifically so it can give a blob like expanding/contracting sensation over time to be able to form a visual cue of increase and decrease of both the North American Indian and South American Indian artifact collection, while also being able to laterally compare both the variables to each other to derive insights of why there is (or isn't) disparity between each as time progresses. 
 
 <img width="392" alt="native american" src="https://github.com/user-attachments/assets/575e59b4-8d45-4d97-afa7-d34d8da262a4">
+
+
+
+MOCK UP!
+
+
+![hifimockupFINAL](https://github.com/user-attachments/assets/b4ada2cc-96e9-442e-98cb-057632587936)
+
